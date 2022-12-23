@@ -1,5 +1,7 @@
 # git-test
 
+Idk
+
 Testje met een paar oefeningen rond het gebruik van Git.
 
 Voor je aan de oefeningen begint, moet je deze repository ‘forken’ naar je eigen gebruiker. Zo heb jij een volledig eigen repository op Github die je volledig onder jouw controle hebt.
